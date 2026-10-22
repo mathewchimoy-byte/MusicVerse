@@ -22,3 +22,19 @@ En desarrollo. Actualmente se está creando la estructura inicial y se añadirá
 
 ---
 MusicVerse — Discover your next favorite song. 🎶
+
+Géneros musicales
+
+MusicVerse reúne diferentes estilos musicales para todos los gustos:
+
+🎸 Rock: guitarras y sonidos intensos.
+
+🎤 Pop: canciones populares y melodías pegadizas.
+
+🎧 Hip-hop: ritmo, rimas y expresión urbana.
+
+🎹 Electrónica: sonidos digitales y ritmos modernos.
+
+🎷 Jazz: improvisación y creatividad musical.
+
+🎶 Reguetón: ritmos urbanos latinos.
