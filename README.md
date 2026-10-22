@@ -38,3 +38,27 @@ MusicVerse reúne diferentes estilos musicales para todos los gustos:
 🎷 Jazz: improvisación y creatividad musical.
 
 🎶 Reguetón: ritmos urbanos latinos.
+
+## 🌟 Artistas destacados
+
+Algunos artistas que los usuarios pueden explorar en MusicVerse:
+
+- The Weeknd
+- Taylor Swift
+- Bad Bunny
+- Bruno Mars
+- Billie Eilish
+
+## 📀 Playlists recomendadas
+
+- **Chill Vibes:** música tranquila para relajarse.
+- **Energy Mode:** canciones con energía para animarse.
+- **Retro Hits:** éxitos musicales de otras épocas.
+- **Latin Mix:** una selección de música latina.
+
+## 🔮 Mejoras futuras
+
+- Crear playlists personalizadas.
+- Incorporar un buscador de artistas y canciones.
+- Ofrecer recomendaciones según los gustos musicales.
+
